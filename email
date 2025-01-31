@@ -1,0 +1,41 @@
+Slide 1: Objectives
+The primary goal of the analysis is to reduce overall call volumes and enhance customer experience by addressing repeat call issues. This includes:
+
+Lowering operational costs by minimizing repeated interactions.
+Improving member satisfaction by resolving recurring issues promptly.
+Streamlining call center operations for better efficiency.
+Increasing the adoption of self-service tools by addressing gaps in digital solutions.
+Our analysis is tailored to meet these goals, with a focus on identifying actionable areas to improve efficiency and member satisfaction.
+
+Slide 2: Frequency Distribution of Repeat Calls Based on Window Size
+This slide explores the relationship between the timeframe for considering repeat calls and the number of calls flagged as repeats. The data shows diminishing returns beyond a 30-day window.
+
+Our Findings: A 30-day window captures most meaningful repeat calls while minimizing unnecessary flags. This threshold balances accuracy with operational efficiency.
+Slide 3: Year-over-Year Trend Analysis
+There has been a steady increase in repeat calls over the past three years, from 21% in 2022 to 28% in 2024. This could indicate gaps in first-call resolution or rising customer concerns.
+
+Our Findings: Our year-over-year analysis reflects the same growth trend, signaling the importance of addressing systemic issues causing repeated inquiries.
+Slide 4: Quarter-over-Quarter Trend Analysis
+The analysis identifies recurring seasonal peaks, especially in Q2 and Q4, suggesting external factors or operational challenges might be influencing repeat calls during these periods.
+
+Our Findings: Quarterly patterns in our data align, reinforcing the need to investigate and address specific issues contributing to these fluctuations.
+Slide 5: Month-over-Month Trend Analysis
+Monthly data shows distinct spikes in February and April, likely linked to seasonal or operational challenges.
+
+Our Findings: Our analysis confirms these spikes, highlighting the need to focus on root causes during these months to mitigate their impact.
+Slide 6: Seasonality Identification
+Higher repeat call volumes are observed on Thursdays and Fridays, which could be attributed to member behavior or workload dynamics.
+
+Our Findings: These patterns align with our data, emphasizing the need for better resource allocation and strategies to handle the increased volume on these days.
+Slide 7: Developing KPIs
+The slide outlines KPIs such as Repeat Call Rate, Average Handle Time (AHT), and Cost per Repeat Call. These metrics provide a framework to measure and address repeat call performance.
+
+Our Findings: We have calculated these KPIs using our data, providing actionable insights to enhance efficiency and reduce operational costs.
+Slide 8: Pivot Analysis
+The analysis identifies key drivers of repeat calls, such as "Eligibility" and "Billing," which contribute significantly to total call volumes.
+
+Our Findings: Our data supports these categories as primary contributors to repeat calls, indicating that targeted improvements in these areas can have a substantial impact.
+Slide 9: Driver Analysis
+Using a decision tree approach, the analysis highlights specific patterns, such as members aged 60–65 and evening calls, which are more likely to result in repeat inquiries.
+
+Our Findings: Our driver analysis validates these patterns, providing a clear direction for targeted interventions to reduce repeat calls effectively.
